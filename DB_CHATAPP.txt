@@ -1,0 +1,1 @@
+create table chatt_db(USERNAME varchar2(50),ADDRESS varchar2(50),MAILID varchar2(50),PHONENO NUMBER(20),PASSWORD varchar2(20),RETYPEPASS varchar2(20));
